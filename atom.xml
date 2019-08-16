@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://felix438.github.io/</id>
-    <title>Gridea</title>
-    <updated>2019-08-16T04:53:22.196Z</updated>
+    <title>felix</title>
+    <updated>2019-08-16T06:02:29.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://felix438.github.io/"/>
     <link rel="self" href="https://felix438.github.io//atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://felix438.github.io//images/avatar.png</logo>
     <icon>https://felix438.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, felix</rights>
     <entry>
         <title type="html"><![CDATA[8-16]]></title>
         <id>https://felix438.github.io//post/8-16</id>
